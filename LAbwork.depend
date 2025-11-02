@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1762105659 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask1.cpp
+	<iostream>
+
+1762106303 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask2.cpp
+	<iostream>
+	<string>
+
+1762106461 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask3.cpp
+	<iostream>
+	<string>
+
+1762106620 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask4.cpp
+	<iostream>
+
+1762106748 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask5.cpp
+	<iostream>
+
+1762106881 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask6.cpp
+	<iostream>
+
+1762107033 source:f:\fall 25-26\compiler\code\lab project\labwork\labtask7.cpp
+	<iostream>
+	<string>
+
+1762107033 source:f:\fall 25-26\compiler\code\lab project\labwork\main.cpp
+	<iostream>
+	"LabTask1.h"
+	"LabTask2.h"
+	"LabTask3.h"
+	"LabTask4.h"
+	"LabTask5.h"
+	"LabTask6.h"
+	"LabTask7.h"
+
+1762106095 f:\fall 25-26\compiler\code\lab project\labwork\labtask1.h
+
+1762106303 f:\fall 25-26\compiler\code\lab project\labwork\labtask2.h
+
+1762106461 f:\fall 25-26\compiler\code\lab project\labwork\labtask3.h
+
+1762106620 f:\fall 25-26\compiler\code\lab project\labwork\labtask4.h
+
+1762106748 f:\fall 25-26\compiler\code\lab project\labwork\labtask5.h
+
+1762106881 f:\fall 25-26\compiler\code\lab project\labwork\labtask6.h
+
+1762107033 f:\fall 25-26\compiler\code\lab project\labwork\labtask7.h
+

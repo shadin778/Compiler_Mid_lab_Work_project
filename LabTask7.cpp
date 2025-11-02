@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int LabTask7A() {
+    string firstName, lastName;
+
+    cout << "Enter your first name: ";
+    cin >> firstName;
+
+    cout << "Enter your last name: ";
+    cin >> lastName;
+
+    string fullName = firstName + " " + lastName;
+
+    cout << "Full name = " << fullName << endl;
+
+    return 0;
+}
