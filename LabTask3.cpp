@@ -3,6 +3,10 @@
 using namespace std;
 
 int LabTask3A() {
+
+
+    cin.ignore();
+
     string line;
     cout << "Enter a line: ";
     getline(cin, line);
