@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762701580 source:f:\fall 25-26\compiler\code\lab project\cdlab\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
